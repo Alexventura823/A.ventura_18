@@ -15,7 +15,7 @@
     <script>
         function accionParaCuandoEllaDigaQueSi(){
             alert('Te jodiste ahora ya somos novios <3 ');
-            alert('Te jodiste ahora ya somos novios <3 ');
+            alert('SALUDAME MI AMOR  by:VENTURA <3 ');
            
         }
 
