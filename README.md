@@ -35,7 +35,7 @@
     </script>
 </head>
 <body>
-    <h1> ¿quires ser mi novia?</h1>
+    <h1> ¿QUIERES SER MI NOVIA?  <h2>===> creado por ventura jshjshjshjsh XD <h2></h1>
     <input type="button" onclick="accionParaCuandoEllaDigaQueSi()" id="btnSi" value="Si" />
     <input type="button" id="btnNo" onmouseover="mueveElBoton()" value="No" />
     <img src="chuec.png" width="550">
