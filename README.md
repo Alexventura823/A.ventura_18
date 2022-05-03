@@ -13,8 +13,9 @@
     </style>
     <script>
         function accionParaCuandoEllaDigaQueSi(){
-            alert('Te jodiste ahora ya somos novios <3 ');
-            alert('SALUDAME MI AMOR  by:VENTURA <3 ');
+            alert('TE JODISTE, AHORA YA SOMOS NOVIOS XD <3 ');
+            alert('SALUDAME MI AMOR  by: VENTURA <3 ');
+            alert('ES BROMA, PERO SI QUIERES NO ES BROMA')     
            
         }
 
@@ -34,7 +35,7 @@
     </script>
 </head>
 <body>
-    <h1> ¿QUIERES SER MI NOVIA?  <h2>===> creado por ventura jshjshjshjsh XD <h2></h1>
+    <h1> ¿QUIERES SER MI NOVIA? creado por ventura XD </h1>
     <input type="button" onclick="accionParaCuandoEllaDigaQueSi()" id="btnSi" value="Si" />
     <input type="button" id="btnNo" onmouseover="mueveElBoton()" value="No" />
     <img src="chuec.png" width="550">
